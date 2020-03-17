@@ -1678,5 +1678,145 @@
     "code": "ES",
     "cases": 9191,
     "deaths": 309
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Andalucía",
+    "cases": 683,
+    "deaths": 11,
+    "code": "ES.AN"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Aragón",
+    "cases": 207,
+    "deaths": 12,
+    "code": "ES.AR"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Asturias",
+    "cases": 193,
+    "deaths": 1,
+    "code": "ES.AS"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Baleares",
+    "cases": 92,
+    "deaths": 1,
+    "code": "ES.PM"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Canarias",
+    "cases": 148,
+    "deaths": 2,
+    "code": "ES.CN"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Cantabria",
+    "cases": 58,
+    "deaths": 0,
+    "code": "ES.CB"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Castilla-La Mancha",
+    "cases": 567,
+    "deaths": 17,
+    "code": "ES.CM"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Castilla y León",
+    "cases": 431,
+    "deaths": 12,
+    "code": "ES.CL"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Cataluña",
+    "cases": 1394,
+    "deaths": 18,
+    "code": "ES.CT"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Ceuta",
+    "cases": 1,
+    "deaths": 0,
+    "code": "ES.CE"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "C. Valenciana",
+    "cases": 541,
+    "deaths": 13,
+    "code": "ES.VC"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Extremadura",
+    "cases": 153,
+    "deaths": 3,
+    "code": "ES.EX"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Galicia",
+    "cases": 292,
+    "deaths": 3,
+    "code": "ES.GA"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Madrid",
+    "cases": 4871,
+    "deaths": 355,
+    "code": "ES.MD"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Melilla",
+    "cases": 17,
+    "deaths": 0,
+    "code": "ES.ME"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Murcia",
+    "cases": 97,
+    "deaths": 0,
+    "code": "ES.MU"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "Navarra",
+    "cases": 313,
+    "deaths": 2,
+    "code": "ES.NA"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "País Vasco",
+    "cases": 765,
+    "deaths": 36,
+    "code": "ES.PV"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "La Rioja",
+    "cases": 355,
+    "deaths": 5,
+    "code": "ES.LO"
+  },
+  {
+    "date": "2020-03-17",
+    "name": "España",
+    "code": "ES",
+    "cases": 11178,
+    "deaths": 491
   }
 ]
