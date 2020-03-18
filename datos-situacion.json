@@ -2298,5 +2298,185 @@
     "deaths": 491,
     "deltaCases": 1987,
     "deltaDeaths": 182
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Andalucía",
+    "cases": 859,
+    "deltaCases": 176,
+    "deaths": 19,
+    "deltaDeaths": 8,
+    "code": "ES.AN"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Aragón",
+    "cases": 226,
+    "deltaCases": 19,
+    "deaths": 13,
+    "deltaDeaths": 1,
+    "code": "ES.AR"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Asturias",
+    "cases": 242,
+    "deltaCases": 49,
+    "deaths": 1,
+    "deltaDeaths": 0,
+    "code": "ES.AS"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Baleares",
+    "cases": 112,
+    "deltaCases": 20,
+    "deaths": 1,
+    "deltaDeaths": 0,
+    "code": "ES.PM"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Canarias",
+    "cases": 181,
+    "deltaCases": 33,
+    "deaths": 3,
+    "deltaDeaths": 1,
+    "code": "ES.CN"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Cantabria",
+    "cases": 68,
+    "deltaCases": 10,
+    "deaths": 1,
+    "deltaDeaths": 1,
+    "code": "ES.CB"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Castilla-La Mancha",
+    "cases": 675,
+    "deltaCases": 108,
+    "deaths": 28,
+    "deltaDeaths": 11,
+    "code": "ES.CM"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Castilla y León",
+    "cases": 668,
+    "deltaCases": 237,
+    "deaths": 22,
+    "deltaDeaths": 10,
+    "code": "ES.CL"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Cataluña",
+    "cases": 1866,
+    "deltaCases": 472,
+    "deaths": 41,
+    "deltaDeaths": 23,
+    "code": "ES.CT"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Ceuta",
+    "cases": 1,
+    "deltaCases": 0,
+    "deaths": 0,
+    "deltaDeaths": 0,
+    "code": "ES.CE"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "C. Valenciana",
+    "cases": 726,
+    "deltaCases": 185,
+    "deaths": 22,
+    "deltaDeaths": 9,
+    "code": "ES.VC"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Extremadura",
+    "cases": 194,
+    "deltaCases": 41,
+    "deaths": 6,
+    "deltaDeaths": 3,
+    "code": "ES.EX"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Galicia",
+    "cases": 341,
+    "deltaCases": 49,
+    "deaths": 3,
+    "deltaDeaths": 0,
+    "code": "ES.GA"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Madrid",
+    "cases": 5637,
+    "deltaCases": 766,
+    "deaths": 390,
+    "deltaDeaths": 35,
+    "code": "ES.MD"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Melilla",
+    "cases": 20,
+    "deltaCases": 3,
+    "deaths": 0,
+    "deltaDeaths": 0,
+    "code": "ES.ME"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Murcia",
+    "cases": 122,
+    "deltaCases": 25,
+    "deaths": 0,
+    "deltaDeaths": 0,
+    "code": "ES.MU"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "Navarra",
+    "cases": 386,
+    "deltaCases": 73,
+    "deaths": 3,
+    "deltaDeaths": 1,
+    "code": "ES.NA"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "País Vasco",
+    "cases": 973,
+    "deltaCases": 208,
+    "deaths": 40,
+    "deltaDeaths": 4,
+    "code": "ES.PV"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "La Rioja",
+    "cases": 419,
+    "deltaCases": 64,
+    "deaths": 5,
+    "deltaDeaths": 0,
+    "code": "ES.LO"
+  },
+  {
+    "date": "2020-03-18",
+    "name": "España",
+    "code": "ES",
+    "cases": 13716,
+    "deaths": 598,
+    "deltaCases": 2538,
+    "deltaDeaths": 107
   }
 ]
