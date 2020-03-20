@@ -2117,7 +2117,8 @@
     "cases": 9191,
     "deaths": 309,
     "deltaCases": 1438,
-    "deltaDeaths": 21
+    "deltaDeaths": 21,
+    "recovered": 530
   },
   {
     "date": "2020-03-17",
@@ -2297,7 +2298,8 @@
     "cases": 11178,
     "deaths": 491,
     "deltaCases": 1987,
-    "deltaDeaths": 182
+    "deltaDeaths": 182,
+    "recovered": 1028
   },
   {
     "date": "2020-03-18",
@@ -2477,7 +2479,8 @@
     "cases": 13716,
     "deaths": 598,
     "deltaCases": 2538,
-    "deltaDeaths": 107
+    "deltaDeaths": 107,
+    "recovered": 1081
   },
   {
     "date": "2020-03-19",
@@ -2657,6 +2660,7 @@
     "cases": 17147,
     "deaths": 767,
     "deltaCases": 3431,
-    "deltaDeaths": 169
+    "deltaDeaths": 169,
+    "recovered": 1107
   }
 ]
