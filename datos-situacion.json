@@ -2480,7 +2480,7 @@
     "date": "2020-03-22",
     "name": "Madrid",
     "cases": 9702,
-    "deaths": 1,
+    "deaths": 1021,
     "code": "ES.MD"
   },
   {
@@ -2523,7 +2523,7 @@
     "name": "España",
     "code": "ES",
     "cases": 28572,
-    "deaths": 700,
+    "deaths": 1720,
     "recovered": 2575
   }
 ]
