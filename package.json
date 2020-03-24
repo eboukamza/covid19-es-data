@@ -1,0 +1,7 @@
+{
+  "name": "covid19-es-data",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parse": "^4.8.8"
+  }
+}

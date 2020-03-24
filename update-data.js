@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const parse = require('csv-parse/lib/sync');
 
 let date = process.argv[2];
 
@@ -30,24 +31,25 @@ const codes = [
   "ES.LO",
 ];
 
-let dailyData = dailyReport.split('\n').map((elem, index) => {
-
-  const [_, name, __, cases, deaths] = elem.match(/(\D*) ((\d*) (\d*))/);
-
-  return {
-    date,
-    name,
-    cases: parseInt(cases),
-    deaths: parseInt(deaths),
-    code: codes[index]
-  }
-});
+let dailyData = parse(dailyReport, {columns: ['name', 'cases', 'deaths', 'recovered']})
+  .map((elem, index) => {
+    const {name, cases, deaths, recovered} = elem;
+    return {
+      date,
+      name,
+      cases: parseInt(cases),
+      deaths: parseInt(deaths),
+      code: codes[index],
+      recovered: parseInt(recovered)
+    }
+  });
 
 let total = dailyData.reduce((global, item) => ({
   ...global,
   cases: global.cases + item.cases,
-  deaths: global.deaths + item.deaths
-}), {date, name: 'España', code: 'ES', cases: 0, deaths: 0});
+  deaths: global.deaths + item.deaths,
+  recovered: global.recovered + item.recovered,
+}), {date, name: 'España', code: 'ES', cases: 0, deaths: 0, recovered: 0});
 
 dailyData.push(total);
 
