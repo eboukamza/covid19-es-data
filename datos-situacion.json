@@ -697,7 +697,8 @@
     "name": "España",
     "code": "ES",
     "cases": 999,
-    "deaths": 16
+    "deaths": 16,
+    "recovered": 23
   },
   {
     "date": "2020-03-10",
@@ -837,7 +838,8 @@
     "name": "España",
     "code": "ES",
     "cases": 1622,
-    "deaths": 35
+    "deaths": 35,
+    "recovered": 135
   },
   {
     "date": "2020-03-11",
@@ -977,7 +979,8 @@
     "name": "España",
     "code": "ES",
     "cases": 2128,
-    "deaths": 47
+    "deaths": 47,
+    "recovered": 183
   },
   {
     "date": "2020-03-12",
@@ -1117,7 +1120,8 @@
     "name": "España",
     "code": "ES",
     "cases": 2950,
-    "deaths": 84
+    "deaths": 84,
+    "recovered": 189
   },
   {
     "date": "2020-03-13",
@@ -1257,7 +1261,8 @@
     "name": "España",
     "code": "ES",
     "cases": 4209,
-    "deaths": 118
+    "deaths": 118,
+    "recovered": 193
   },
   {
     "date": "2020-03-14",
@@ -1397,7 +1402,8 @@
     "name": "España",
     "code": "ES",
     "cases": 5753,
-    "deaths": 136
+    "deaths": 136,
+    "recovered": 193
   },
   {
     "date": "2020-03-15",
@@ -1537,7 +1543,8 @@
     "name": "España",
     "code": "ES",
     "cases": 7753,
-    "deaths": 288
+    "deaths": 288,
+    "recovered": 193
   },
   {
     "date": "2020-03-16",
