@@ -57,3 +57,5 @@ console.log(dailyData)
 let outpath = path.join(__dirname, 'datos-situacion.json');
 fileData.push(...dailyData);
 fs.writeFileSync(outpath, JSON.stringify(fileData, null, 2));
+
+fs.writeFileSync(path.join(__dirname, 'last-update'), new Date().toISOString());
