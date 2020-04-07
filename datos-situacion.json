@@ -4989,5 +4989,165 @@
     "cases": 135032,
     "deaths": 13055,
     "recovered": 40437
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Andalucía",
+    "cases": 8767,
+    "deaths": 528,
+    "code": "ES.AN",
+    "recovered": 900
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Aragón",
+    "cases": 3449,
+    "deaths": 312,
+    "code": "ES.AR",
+    "recovered": 578
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Asturias",
+    "cases": 1679,
+    "deaths": 96,
+    "code": "ES.AS",
+    "recovered": 244
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Baleares",
+    "cases": 1369,
+    "deaths": 84,
+    "code": "ES.PM",
+    "recovered": 537
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Canarias",
+    "cases": 1725,
+    "deaths": 89,
+    "code": "ES.CN",
+    "recovered": 186
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Cantabria",
+    "cases": 1501,
+    "deaths": 85,
+    "code": "ES.CB",
+    "recovered": 129
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Castilla La Mancha",
+    "cases": 11077,
+    "deaths": 1177,
+    "code": "ES.CM",
+    "recovered": 1353
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Castilla y León",
+    "cases": 9581,
+    "deaths": 982,
+    "code": "ES.CL",
+    "recovered": 2711
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Cataluña",
+    "cases": 28323,
+    "deaths": 2908,
+    "code": "ES.CT",
+    "recovered": 10738
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Ceuta",
+    "cases": 83,
+    "deaths": 4,
+    "code": "ES.CE",
+    "recovered": 2
+  },
+  {
+    "date": "2020-04-07",
+    "name": "C. Valenciana",
+    "cases": 7443,
+    "deaths": 672,
+    "code": "ES.VC",
+    "recovered": 1103
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Extremadura",
+    "cases": 2116,
+    "deaths": 258,
+    "code": "ES.EX",
+    "recovered": 282
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Galicia",
+    "cases": 6331,
+    "deaths": 204,
+    "code": "ES.GA",
+    "recovered": 688
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Madrid",
+    "cases": 40469,
+    "deaths": 5371,
+    "code": "ES.MD",
+    "recovered": 18410
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Melilla",
+    "cases": 92,
+    "deaths": 2,
+    "code": "ES.ME",
+    "recovered": 11
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Murcia",
+    "cases": 1283,
+    "deaths": 78,
+    "code": "ES.MU",
+    "recovered": 193
+  },
+  {
+    "date": "2020-04-07",
+    "name": "Navarra",
+    "cases": 3355,
+    "deaths": 202,
+    "code": "ES.NA",
+    "recovered": 421
+  },
+  {
+    "date": "2020-04-07",
+    "name": "País Vasco",
+    "cases": 9021,
+    "deaths": 586,
+    "code": "ES.PV",
+    "recovered": 3728
+  },
+  {
+    "date": "2020-04-07",
+    "name": "La Rioja",
+    "cases": 2846,
+    "deaths": 160,
+    "code": "ES.LO",
+    "recovered": 994
+  },
+  {
+    "date": "2020-04-07",
+    "name": "España",
+    "code": "ES",
+    "cases": 140510,
+    "deaths": 13798,
+    "recovered": 43208
   }
 ]
