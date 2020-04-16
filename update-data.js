@@ -31,7 +31,7 @@ const codes = [
   "ES.LO",
 ];
 
-let dailyData = parse(dailyReport, {columns: ['name', 'cases','cumulativeIncidence','hospitalized','intensiveCare', 'deaths', 'recovered', 'newCases']})
+let dailyData = parse(dailyReport, {columns: ['name', 'cases','cumulativeIncidence','hospitalized','intensiveCare', 'deaths', 'recovered']})
   .map((elem, index) => {
     const {name, cases, deaths, recovered, cumulativeIncidence} = elem;
     return {
