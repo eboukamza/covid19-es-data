@@ -31,7 +31,7 @@ const codes = [
   "ES.LO",
 ];
 
-let dailyData = parse(dailyReport, {columns: ['name', 'cases','cumulativeIncidence','hospitalized','intensiveCare', 'deaths', 'recovered']})
+let dailyData = parse(dailyReport, {columns: ['name', 'cases','hospitalized','intensiveCare', 'deaths', 'recovered']})
   .map((elem, index) => {
     const {name, cases, deaths, recovered, cumulativeIncidence} = elem;
     return {
@@ -40,8 +40,7 @@ let dailyData = parse(dailyReport, {columns: ['name', 'cases','cumulativeInciden
       code: codes[index],
       cases: parseInt(cases),
       deaths: parseInt(deaths),
-      recovered: parseInt(recovered),
-      cumulativeIncidence: parseFloat(cumulativeIncidence)
+      recovered: parseInt(recovered)
     }
   });
 
